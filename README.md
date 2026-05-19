@@ -92,6 +92,11 @@ Generate Audio
 ```
 
 The generated speech will be played directly in the browser.
+---
+
+# Screenshots
+
+![Application Screenshot](screenshot.png)
 
 ---
 
