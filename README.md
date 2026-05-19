@@ -30,19 +30,6 @@ The application converts text into realistic speech locally and allows users to 
 
 ---
 
-# Project Structure
-
-```bash
-project/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── generated_audio/
-```
-
----
-
 # Installation
 
 ## 1. Clone the repository
