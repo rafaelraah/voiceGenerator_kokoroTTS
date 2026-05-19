@@ -138,6 +138,12 @@ Recommended:
 
 ---
 
+# Streamlit application
+
+URL: https://voicegeneratorkokoro.streamlit.app/
+
+---
+
 # Future Improvements
 
 * Multiple voice support
